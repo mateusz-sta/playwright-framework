@@ -2,7 +2,7 @@
 
 ### Repository:
 
-📦 [GitHub Repository](https://github.com/mateusz-sta/playwright-tests.git)
+📦 [GitHub Repository](https://github.com/mateusz-sta/playwright-framework.git)
 
 ### Local recommended tools:
 
@@ -12,7 +12,7 @@
 
 ### Installation and setup:
 
-- clone and enter the repository: `git clone https://github.com/mateusz-sta/playwright-tests.git`
+- clone and enter the repository: `git clone https://github.com/mateusz-sta/playwright-framework.git`
 - (optional) install VSC recommended plugins
 - install dependencies: `npm install`
 - setup Playwright with: `npm run deps:playwright`
